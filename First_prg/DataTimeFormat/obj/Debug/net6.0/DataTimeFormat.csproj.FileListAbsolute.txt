@@ -1,0 +1,15 @@
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\bin\Debug\net6.0\DataTimeFormat.exe
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\bin\Debug\net6.0\DataTimeFormat.deps.json
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\bin\Debug\net6.0\DataTimeFormat.runtimeconfig.json
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\bin\Debug\net6.0\DataTimeFormat.dll
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\bin\Debug\net6.0\DataTimeFormat.pdb
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.csproj.AssemblyReference.cache
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.AssemblyInfoInputs.cache
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.AssemblyInfo.cs
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.dll
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\refint\DataTimeFormat.dll
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.pdb
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\DataTimeFormat.genruntimeconfig.cache
+C:\Users\thuyt\source\repos\First_prg\DataTimeFormat\obj\Debug\net6.0\ref\DataTimeFormat.dll

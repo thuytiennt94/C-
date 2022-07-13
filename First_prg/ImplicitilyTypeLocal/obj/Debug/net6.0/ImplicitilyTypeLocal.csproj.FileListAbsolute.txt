@@ -1,0 +1,15 @@
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.csproj.AssemblyReference.cache
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.AssemblyInfoInputs.cache
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.AssemblyInfo.cs
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\bin\Debug\net6.0\ImplicitilyTypeLocal.exe
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\bin\Debug\net6.0\ImplicitilyTypeLocal.deps.json
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\bin\Debug\net6.0\ImplicitilyTypeLocal.runtimeconfig.json
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\bin\Debug\net6.0\ImplicitilyTypeLocal.dll
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\bin\Debug\net6.0\ImplicitilyTypeLocal.pdb
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.dll
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\refint\ImplicitilyTypeLocal.dll
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.pdb
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ImplicitilyTypeLocal.genruntimeconfig.cache
+C:\Users\thuyt\source\repos\First_prg\ImplicitilyTypeLocal\obj\Debug\net6.0\ref\ImplicitilyTypeLocal.dll
