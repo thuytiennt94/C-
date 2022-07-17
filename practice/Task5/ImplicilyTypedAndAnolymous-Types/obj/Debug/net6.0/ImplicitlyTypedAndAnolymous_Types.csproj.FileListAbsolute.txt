@@ -1,0 +1,15 @@
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\bin\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.exe
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\bin\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.deps.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\bin\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.runtimeconfig.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\bin\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\bin\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\refint\ImplicitlyTypedAndAnolymous_Types.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ImplicitlyTypedAndAnolymous_Types.genruntimeconfig.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ImplicilyTypedAndAnolymous-Types\obj\Debug\net6.0\ref\ImplicitlyTypedAndAnolymous_Types.dll

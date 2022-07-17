@@ -1,0 +1,15 @@
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\bin\Debug\net6.0\OutputFormat.exe
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\bin\Debug\net6.0\OutputFormat.deps.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\bin\Debug\net6.0\OutputFormat.runtimeconfig.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\bin\Debug\net6.0\OutputFormat.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\bin\Debug\net6.0\OutputFormat.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\refint\OutputFormat.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\OutputFormat.genruntimeconfig.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\OutputFormat\obj\Debug\net6.0\ref\OutputFormat.dll

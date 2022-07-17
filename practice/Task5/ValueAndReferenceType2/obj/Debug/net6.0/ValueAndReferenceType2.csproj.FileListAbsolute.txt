@@ -1,0 +1,15 @@
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\bin\Debug\net6.0\ValueAndReferenceType2.exe
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\bin\Debug\net6.0\ValueAndReferenceType2.deps.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\bin\Debug\net6.0\ValueAndReferenceType2.runtimeconfig.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\bin\Debug\net6.0\ValueAndReferenceType2.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\bin\Debug\net6.0\ValueAndReferenceType2.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\refint\ValueAndReferenceType2.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ValueAndReferenceType2.genruntimeconfig.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task5\ValueAndReferenceType2\obj\Debug\net6.0\ref\ValueAndReferenceType2.dll
