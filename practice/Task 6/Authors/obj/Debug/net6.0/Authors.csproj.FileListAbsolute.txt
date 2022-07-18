@@ -1,0 +1,15 @@
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\bin\Debug\net6.0\Authors.exe
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\bin\Debug\net6.0\Authors.deps.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\bin\Debug\net6.0\Authors.runtimeconfig.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\bin\Debug\net6.0\Authors.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\bin\Debug\net6.0\Authors.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\refint\Authors.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\Authors.genruntimeconfig.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Authors\obj\Debug\net6.0\ref\Authors.dll

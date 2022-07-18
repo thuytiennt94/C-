@@ -45,7 +45,7 @@ namespace Bank
                         gender = Convert.ToChar(Console.ReadLine());
 
                         Console.WriteLine("select designation (choose the number): ");
-                        Console.WriteLine("1. Manager ]n2.System Analyst \n3.Developer \n4.Accountant");
+                        Console.WriteLine("1. Manager \n2.System Analyst \n3.Developer \n4.Accountant");
                         Console.Write("Enter your choice:");
                         int choice = Convert.ToInt32(Console.ReadLine());
 

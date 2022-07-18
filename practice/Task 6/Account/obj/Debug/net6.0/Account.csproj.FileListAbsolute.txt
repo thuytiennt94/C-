@@ -1,0 +1,15 @@
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\bin\Debug\net6.0\Account.exe
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\bin\Debug\net6.0\Account.deps.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\bin\Debug\net6.0\Account.runtimeconfig.json
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\bin\Debug\net6.0\Account.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\bin\Debug\net6.0\Account.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\refint\Account.dll
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.pdb
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\Account.genruntimeconfig.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Account\obj\Debug\net6.0\ref\Account.dll
