@@ -29,7 +29,6 @@ namespace SchoolValue
             Console.WriteLine("The value of str before : " + b.name + " \nclass: " + b.class1);
             changeValue2(b);
             Console.WriteLine("The value of str after:" + b.name + " \nclass: " + b.class1);
-
             Console.ReadLine();
         }
         public static void changeValue(int y)

@@ -1,0 +1,5 @@
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\practice\Task 6\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache

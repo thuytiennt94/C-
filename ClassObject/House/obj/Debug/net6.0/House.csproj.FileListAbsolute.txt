@@ -1,0 +1,15 @@
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\bin\Debug\net6.0\House.exe
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\bin\Debug\net6.0\House.deps.json
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\bin\Debug\net6.0\House.runtimeconfig.json
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\bin\Debug\net6.0\House.dll
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\bin\Debug\net6.0\House.pdb
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.dll
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\refint\House.dll
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.pdb
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\House.genruntimeconfig.cache
+C:\Users\thuyt\Documents\GitHub\C-\ClassObject\House\obj\Debug\net6.0\ref\House.dll
