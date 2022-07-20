@@ -1,0 +1,15 @@
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.exe
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.deps.json
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.runtimeconfig.json
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.dll
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.pdb
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.csproj.AssemblyReference.cache
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.AssemblyInfoInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.AssemblyInfo.cs
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.dll
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\refint\IndexersDemo.dll
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.pdb
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.genruntimeconfig.cache
+C:\Users\thuyt\Documents\GitHub\C-\Lap 4\IndexersDemo\obj\Debug\net6.0\ref\IndexersDemo.dll
