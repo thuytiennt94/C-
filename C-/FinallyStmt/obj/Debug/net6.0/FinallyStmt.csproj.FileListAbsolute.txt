@@ -1,0 +1,15 @@
+C:\Users\thuyt\source\repos\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.exe
+C:\Users\thuyt\source\repos\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.deps.json
+C:\Users\thuyt\source\repos\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.runtimeconfig.json
+C:\Users\thuyt\source\repos\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.dll
+C:\Users\thuyt\source\repos\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.pdb
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.csproj.AssemblyReference.cache
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.AssemblyInfoInputs.cache
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.AssemblyInfo.cs
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.csproj.CoreCompileInputs.cache
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.dll
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\refint\FinallyStmt.dll
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.pdb
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.genruntimeconfig.cache
+C:\Users\thuyt\source\repos\C-\FinallyStmt\obj\Debug\net6.0\ref\FinallyStmt.dll
