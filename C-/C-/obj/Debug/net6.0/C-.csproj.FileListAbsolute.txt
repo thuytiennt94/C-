@@ -1,0 +1,15 @@
+D:\Githup\C-\C-\C-\bin\Debug\net6.0\C-.exe
+D:\Githup\C-\C-\C-\bin\Debug\net6.0\C-.deps.json
+D:\Githup\C-\C-\C-\bin\Debug\net6.0\C-.runtimeconfig.json
+D:\Githup\C-\C-\C-\bin\Debug\net6.0\C-.dll
+D:\Githup\C-\C-\C-\bin\Debug\net6.0\C-.pdb
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.csproj.AssemblyReference.cache
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.GeneratedMSBuildEditorConfig.editorconfig
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.AssemblyInfoInputs.cache
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.AssemblyInfo.cs
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.csproj.CoreCompileInputs.cache
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.dll
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\refint\C-.dll
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.pdb
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\C-.genruntimeconfig.cache
+D:\Githup\C-\C-\C-\obj\Debug\net6.0\ref\C-.dll

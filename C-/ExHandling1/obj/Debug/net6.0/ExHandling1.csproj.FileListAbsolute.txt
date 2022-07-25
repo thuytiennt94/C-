@@ -1,0 +1,15 @@
+D:\Githup\C-\C-\ExHandling1\bin\Debug\net6.0\ExHandling1.exe
+D:\Githup\C-\C-\ExHandling1\bin\Debug\net6.0\ExHandling1.deps.json
+D:\Githup\C-\C-\ExHandling1\bin\Debug\net6.0\ExHandling1.runtimeconfig.json
+D:\Githup\C-\C-\ExHandling1\bin\Debug\net6.0\ExHandling1.dll
+D:\Githup\C-\C-\ExHandling1\bin\Debug\net6.0\ExHandling1.pdb
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.csproj.AssemblyReference.cache
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.AssemblyInfoInputs.cache
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.AssemblyInfo.cs
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.csproj.CoreCompileInputs.cache
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.dll
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\refint\ExHandling1.dll
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.pdb
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ExHandling1.genruntimeconfig.cache
+D:\Githup\C-\C-\ExHandling1\obj\Debug\net6.0\ref\ExHandling1.dll

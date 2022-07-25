@@ -1,0 +1,15 @@
+D:\Githup\C-\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.exe
+D:\Githup\C-\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.deps.json
+D:\Githup\C-\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.runtimeconfig.json
+D:\Githup\C-\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.dll
+D:\Githup\C-\C-\FinallyStmt\bin\Debug\net6.0\FinallyStmt.pdb
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.csproj.AssemblyReference.cache
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.AssemblyInfoInputs.cache
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.AssemblyInfo.cs
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.csproj.CoreCompileInputs.cache
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.dll
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\refint\FinallyStmt.dll
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.pdb
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\FinallyStmt.genruntimeconfig.cache
+D:\Githup\C-\C-\FinallyStmt\obj\Debug\net6.0\ref\FinallyStmt.dll
